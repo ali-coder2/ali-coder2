@@ -29,11 +29,6 @@
 ---
 
 ### 📊 GitHub İstatistikleri / GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-coder2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-coder2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-coder2&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-coder2&layout=compact&theme=tokyonight&hide_border=true)

@@ -32,4 +32,3 @@
 * **Siber Güvenlik & Otonom Keşif:** Otomatik tarama sistemleri, zafiyet analizleri ve WAF bypass mekanizmaları.
 * **Backend Mimarileri:** Flask, PostgreSQL ve güvenli veri tabanı altyapıları.
 * **Bot Ekosistemleri:** Telegram entegrasyonlu akıllı asistanlar ve operasyonel otomasyonlar.
-  

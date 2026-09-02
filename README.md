@@ -28,7 +28,8 @@
 
 ---
 
-### 📊 GitHub İstatistikleri / GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-coder2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-coder2&layout=compact&theme=tokyonight&hide_border=true)
+### 🏆 Öne Çıkan Alanlar / Core Focus
+* **Siber Güvenlik & Otonom Keşif:** Otomatik tarama sistemleri, zafiyet analizleri ve WAF bypass mekanizmaları.
+* **Backend Mimarileri:** Flask, PostgreSQL ve güvenli veri tabanı altyapıları.
+* **Bot Ekosistemleri:** Telegram entegrasyonlu akıllı asistanlar ve operasyonel otomasyonlar.
+* 
